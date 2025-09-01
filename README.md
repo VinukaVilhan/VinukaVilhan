@@ -1,14 +1,12 @@
 # 👋 Hi, I’m **Vinuka Vilhan**  
-**Problem-solver • Software Developer in training • Builder of web & app projects**
+**Problem-solver • Software Developer in training • Builder of software projects**
 
 [![GitHub followers](https://img.shields.io/github/followers/VinukaVilhan?label=follow&style=social)](https://github.com/VinukaVilhan)
-[![Top Langs](https://img.shields.io/github/languages/top/VinukaVilhan?label=top%20languages)](https://github.com/VinukaVilhan)
-![Profile Views](https://komarev.com/ghpvc/?username=VinukaVilhan&color=blue)
 
 ---
 
 ## 🚀 About Me
-I enjoy turning real-world problems into simple, usable software. Currently focused on learning **software development** and **product/tech management**, and building web & mobile apps that solve practical problems.
+I enjoy turning real-world problems into simple, usable software. Currently focused on learning **software development** and **product/tech management**, and building applications that solve practical problems.
 
 - 👀 Interests: building web & mobile apps, backend systems, automation, developer tools  
 - 🌱 Learning: modern web stacks, TypeScript, deployment & devops basics  
@@ -21,7 +19,7 @@ I enjoy turning real-world problems into simple, usable software. Currently focu
 > (What I use most — always learning more)
 
 - **Frontend:** React, Next.js, Flutter (mobile)  
-- **Backend:** Node.js, Express  
+- **Backend:** Node.js, Express, Laravel  
 - **Languages:** JavaScript, TypeScript, Python  
 - **Databases / Infra:** MySQL, MongoDB, Linux VPS, Docker, Nginx  
 - **DevTools:** Git, GitHub, GitHub Actions, PM2, Postman
