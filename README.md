@@ -20,8 +20,10 @@ I enjoy turning real-world problems into simple, usable software. Currently focu
 
 - **Frontend:** React, Next.js, Flutter (mobile)  
 - **Backend:** Node.js, Express, Laravel  
-- **Languages:** JavaScript, TypeScript, Python  
-- **Databases / Infra:** MySQL, MongoDB, Linux VPS, Docker, Nginx  
+- **Languages:** JavaScript, TypeScript, Python, C, C++
+- **Frameworks** Tkinter
+- **Databases** MySQL, MongoDB
+- **Server and Website management** Linux VPS, Nginx, Cpanel
 - **DevTools:** Git, GitHub, GitHub Actions, Filezilla, Putty, Winscp, Postman
 
 ---
