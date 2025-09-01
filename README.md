@@ -31,25 +31,8 @@ I enjoy turning real-world problems into simple, usable software. Currently focu
 ## 🔭 Currently Working On
 - **2D Driving lessons game** — With the use of flutter and flame engine a game is being developed to mitigate the disadvantages people face when they learn driving through traditional methods. Also, serves as a low cost alternative for people in rural areas to easily access driving lessons.
 
----
-
-## 💡 Projects
-- [**project-name**](https://github.com/VinukaVilhan/project-name) — short one-line description of what the project does and the tech used.
-- [**another-project**](https://github.com/VinukaVilhan/another-project) — short description, notable features.
-
----
-
 ## 📈 GitHub Stats
 ![Vinuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinukaVilhan&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinukaVilhan&layout=compact&theme=tokyonight)
 
 ---
-
-## 🎯 Quick Goals
-- Improve full-stack TypeScript skills.  
-- Learn containerized deployments and CI/CD.  
-- Build production-ready apps that solve local problems.
-
----
-
-Thanks for stopping by — feel free to say hi! 👋
