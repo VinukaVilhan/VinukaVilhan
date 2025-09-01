@@ -22,29 +22,18 @@ I enjoy turning real-world problems into simple, usable software. Currently focu
 - **Backend:** Node.js, Express, Laravel  
 - **Languages:** JavaScript, TypeScript, Python  
 - **Databases / Infra:** MySQL, MongoDB, Linux VPS, Docker, Nginx  
-- **DevTools:** Git, GitHub, GitHub Actions, PM2, Postman
+- **DevTools:** Git, GitHub, GitHub Actions, Filezilla, Putty, Winscp, Postman
 
 ---
 
 ## 🔭 Currently Working On
-- **Student management site** — image upload/review workflow, infinite scroll optimization.  
-- **Salon management system** — separate React apps for customers and staff + Node backend (TypeScript).  
-*(See pinned repos below — or check my repositories for the latest work.)*
+- **2D Driving lessons game** — With the use of flutter and flame engine a game is being developed to mitigate the disadvantages people face when they learn driving through traditional methods. Also, serves as a low cost alternative for people in rural areas to easily access driving lessons.
 
 ---
 
-## 💡 Projects (pick a repo and replace the placeholder)
+## 💡 Projects
 - [**project-name**](https://github.com/VinukaVilhan/project-name) — short one-line description of what the project does and the tech used.
 - [**another-project**](https://github.com/VinukaVilhan/another-project) — short description, notable features.
-
-> Tip: Pin 3–6 of your best/most relevant repos to your GitHub profile to showcase these.
-
----
-
-## 🤝 How to collaborate
-- Open an issue describing the idea or problem you want to solve.  
-- Prefer small, focused PRs — add tests and a short description.  
-- If you want to work together, email me or open an issue in a repo and tag me.
 
 ---
 
