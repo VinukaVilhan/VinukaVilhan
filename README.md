@@ -1,4 +1,5 @@
-# 👋 Hi, I’m **Vinuka Vilhan**  
+# 👋 Hi, I’m **Vinuka Vilhan**
+
 **Problem-solver • Software Developer in training • Builder of software projects**
 
 [![GitHub followers](https://img.shields.io/github/followers/VinukaVilhan?label=follow&style=social)](https://github.com/VinukaVilhan)
