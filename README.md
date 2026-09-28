@@ -8,10 +8,6 @@ VINUKA VILHAN
 full-stack engineer // systems builder // root after midnight
 ```
 
-[![Linux](https://img.shields.io/badge/OS-Linux-39ff14?style=for-the-badge&logo=linux&logoColor=39ff14&labelColor=050505)](https://kernel.org)
-[![Status](https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=for-the-badge&labelColor=050505)](https://github.com/VinukaVilhan)
-[![Location](https://img.shields.io/badge/NODE-NEGOMBO-39ff14?style=for-the-badge&labelColor=050505)](https://github.com/VinukaVilhan)
-
 </div>
 
 ```bash
@@ -99,13 +95,11 @@ workflow:
 
 ---
 
-## `/var/log/github`
+## `~/stats`
 
 <div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VinukaVilhan&show_icons=true&hide_border=true&bg_color=050505&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinukaVilhan&layout=compact&hide_border=true&bg_color=050505&title_color=39ff14&text_color=c9d1d9)
-
+  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=VinukaVilhan&show_icons=true&hide_border=true&bg_color=050505&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=VinukaVilhan&layout=compact&hide_border=true&bg_color=050505&title_color=39ff14&text_color=c9d1d9" alt="Top languages" />
 </div>
 
 ---
