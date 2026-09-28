@@ -1,134 +1,125 @@
+<div align="center">
+
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   YOU DO NOT TALK ABOUT THIS REPO.                           ║
-║   YOU DO NOT TALK ABOUT THIS REPO.                           ║
-║                                                              ║
-║   The third rule: if a build is broken,                        ║
-║   the only way out is through.                               ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+┌──(vinuka㉿den)-[~]
+└─$ ./identify --verbose
+
+VINUKA VILHAN
+full-stack engineer // systems builder // root after midnight
 ```
 
-# VINUKA VILHAN
+[![Linux](https://img.shields.io/badge/OS-Linux-39ff14?style=for-the-badge&logo=linux&logoColor=39ff14&labelColor=050505)](https://kernel.org)
+[![Status](https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=for-the-badge&labelColor=050505)](https://github.com/VinukaVilhan)
+[![Location](https://img.shields.io/badge/NODE-NEGOMBO-39ff14?style=for-the-badge&labelColor=050505)](https://github.com/VinukaVilhan)
 
-> You are not your repo.  
-> You are not your commit history.  
-> The dependencies you install end up installing you.  
-> I'm here to question the system.  
-> To `git reset --hard`.
-
-```diff
-- welcome to my portfolio
-+ welcome to the den
-```
-
-Negombo-based. Software is the weapon. Silence is the protocol.  
-I don't collect badges. I ship scars.
-
-[![followers](https://img.shields.io/github/followers/VinukaVilhan?label=watchers&style=flat-square&color=000000&labelColor=111111)](https://github.com/VinukaVilhan)
-[![email](https://img.shields.io/badge/signal-v.v.fernandopulle@gmail.com-000000?style=flat-square&labelColor=111111)](mailto:v.v.fernandopulle@gmail.com)
-
----
-
-## // THE DEN
-
-This isn't a resume. It's a basement.
-
-No corporate smiles. No "passionate developer" slogans.  
-Just code that wakes up at 3AM and asks what the hell you're doing with your life.
-
-I build things that cut. Web. Mobile. Backend. Systems that refuse to be polite.
+</div>
 
 ```bash
-$ whoami
-vinuka — problem solver. system doubter. builder in the dark.
+vinuka@den:~$ whoami
+problem-solver
 
-$ cat /proc/self/status
-State:	R (running)
-Focus:	software that solves real problems
-Open:	collab that doesn't waste oxygen
+vinuka@den:~$ cat mission.txt
+Build systems that solve real problems.
+Question defaults. Read the logs. Own the stack.
+
+vinuka@den:~$ uptime
+learning continuously; shipping deliberately
 ```
 
----
-
-## // ACTIVE OPERATIONS
-
-*The seven latest pushes. Fresh blood on the terminal.*
-
-| OP | CODENAME | WHAT IT DOES | STACK |
-|----|----------|--------------|-------|
-| `01` | [**WebProjects**](https://github.com/VinukaVilhan/WebProjects) | Small web experiments. Quick cuts. No mercy for unused CSS. | JS · CSS · HTML · TS |
-| `02` | [**ServEase**](https://github.com/VinukaVilhan/servease-backend) | Microservices that don't ask permission. Auth, vehicles, appointments — Docker'd and gated through Nginx. | Python · Django · Docker |
-| `03` | [**CProgramming**](https://github.com/VinukaVilhan/CProgramming) | Close to the metal. Memory doesn't lie. Pointers don't care about your feelings. | C |
-| `04` | [**DebateX**](https://github.com/VinukaVilhan/DebateX) | Live debate platform. Arguments with video. The truth is optional. The latency isn't. → [live](https://debate-x-nrd5.vercel.app) | Next.js · TS · Clerk · Stream · Firebase |
-| `05` | [**Java**](https://github.com/VinukaVilhan/Java) | Classes. Objects. The illusion of order. Useful until it isn't. | Java |
-| `06` | [**Ecom-App**](https://github.com/VinukaVilhan/Ecom-App-Laravel) | Commerce frontend. Carts. Checkout. Capitalism, but make it TypeScript. | Next.js · TypeScript |
-| `07` | [**WARAID**](https://github.com/VinukaVilhan/iwb236-scriptrippers) | Emergency aid app. Alerts. First-aid bot. Location when it matters. Built for Ballerina Comp. | Ballerina · React · Vite |
+> You are not your framework.  
+> You are not your commit count.  
+> You are the problem you refused to leave unsolved.
 
 ---
 
-## // CURRENT FIGHT
-
-**2D Driving Lessons Game** — Flutter + Flame.
-
-Traditional driving lessons are expensive, scarce, and built for people who already have access.  
-This one isn't. Low-cost practice for people the system forgot. Rural access. Muscle memory without the wreck.
-
-You are not your learner's permit.  
-You are the hours you put in before the road puts you in.
-
----
-
-## // ARSENAL
-
-```
-FRONTEND   →  React · Next.js · Flutter
-BACKEND    →  Node · Express · Django · Laravel · Ballerina
-LANGUAGES  →  JavaScript · TypeScript · Python · C · Java
-DATA       →  MySQL · MongoDB
-OPS        →  Linux VPS · Nginx · Docker · GitHub Actions
-TOOLS      →  Git · Postman · the terminal · sleep optional
-```
-
----
-
-## // RULES OF THE DEN
-
-1. You do not talk about half-finished ideas like they're finished.
-2. You do not talk about half-finished ideas like they're finished.
-3. If a PR goes stale, it dies.
-4. Only two people to a pair-program.
-5. One fight at a time. One feature. Ship it.
-6. No shirts. No shoes. No `console.log` in prod.
-7. Builds will go on as long as they have to.
-8. If this is your first night in the den… you have to code.
-
----
-
-## // TELEMETRY
-
-![stats](https://github-readme-stats.vercel.app/api?username=VinukaVilhan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2d55&icon_color=ff2d55&text_color=c9d1d9)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinukaVilhan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2d55&text_color=c9d1d9)
-
----
+## `~/operations`
 
 ```text
-        ________________________________________________
-       /                                                \
-      |    It's only after you've lost everything         |
-      |    that you're free to do anything.               |
-      |                                                   |
-      |    Including refactor the whole damn thing.       |
-       \________________________________________________/
-                              ||
-                              ||
-                              ||
-                         .----||----.
-                         |  DEN OS  |
-                         '----------'
+drwx------  private systems under active development
+-rw-r--r--  public work with nothing to hide
 ```
 
-**self-destruct protocol:** [v.v.fernandopulle@gmail.com](mailto:v.v.fernandopulle@gmail.com)
+### `01 / MandapaPandithage` 🔒
 
-*— the first rule still stands.*
+Full-stack education platform for students, instructors and administrators.  
+Role-based access, exams, marks, content delivery, payments, caching and production observability.
+
+`JavaScript` `TypeScript` `React` `Vite` `Node.js` `Express` `MySQL` `Sequelize` `Redis` `JWT` `Tailwind` `Sentry`
+
+### `02 / acenzo` 🔒
+
+The digital front door for Acenzo Initiatives: a high-motion marketing and product site built on the modern Next.js stack.
+
+`TypeScript` `Next.js 16` `React 19` `Tailwind CSS 4` `GSAP` `PixiJS` `p5.js` `MDX`
+
+### `03 / CarGame` 🔒
+
+Road Rules: interactive road-safety education through theory, road signs, practical driving levels and simulation. Progress works offline, syncs when connected, and an AI assistant rides shotgun.
+
+`Dart` `Flutter` `Flame` `Tiled` `Firebase` `Firestore` `Isar` `Gemini`
+
+### `04 / WTAutomation` 🔒
+
+Private smart-home infrastructure: ESP devices, MQTT messaging, automation flows and a containerized control plane isolated behind Tailscale.
+
+`C++` `ESP32` `ESPHome` `Home Assistant` `Mosquitto` `Node-RED` `Docker` `Tailscale`
+
+### [`05 / Project46`](https://github.com/VinukaVilhan/Project46)
+
+Control: a Windows desktop utility that schedules shutdown, restart, sleep and Wi-Fi operations. Built because machines should obey the clock—not the other way around.
+
+`Python` `Tkinter` `Windows automation` `Batch`
+
+---
+
+## `/usr/local/bin/skills`
+
+```yaml
+languages:
+  primary: [JavaScript, TypeScript, Dart, Python, C++]
+
+frontend:
+  web: [React, Next.js, Vite, Tailwind CSS]
+  motion: [GSAP, Framer Motion, PixiJS, p5.js]
+  mobile: [Flutter, Flame]
+
+backend:
+  runtime: [Node.js, Express]
+  auth: [JWT, role-based access control]
+  data: [MySQL, Sequelize, Redis, Firestore, Isar]
+
+systems:
+  iot: [ESP32, ESPHome, MQTT, Home Assistant, Node-RED]
+  infrastructure: [Linux, Docker, Nginx, Tailscale]
+  delivery: [GitHub Actions, VPS deployment, Sentry]
+
+workflow:
+  doctrine: [spec-driven development, testing, logs before guesses]
+```
+
+---
+
+## `/var/log/github`
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VinukaVilhan&show_icons=true&hide_border=true&bg_color=050505&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinukaVilhan&layout=compact&hide_border=true&bg_color=050505&title_color=39ff14&text_color=c9d1d9)
+
+</div>
+
+---
+
+```bash
+vinuka@den:~$ printf "signal: "
+v.v.fernandopulle@gmail.com
+
+vinuka@den:~$ logout
+Connection to the ordinary closed.
+```
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/OPEN_A_SECURE_CHANNEL-39ff14?style=for-the-badge&logo=gmail&logoColor=050505&labelColor=050505)](mailto:v.v.fernandopulle@gmail.com)
+
+</div>
